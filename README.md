@@ -7,7 +7,7 @@ This repository contains self-service resources for development teams.
 - `namespaces/`: Kubernetes namespace definitions
   - `dev/`: Development environment namespaces
   - `staging/`: Staging environment namespaces
-  - `prod/`: Production environment namespaces
+  - `prod/`: Production environment namespacess
 - `projects/`: ArgoCD project definitions
 - `applications/`: ArgoCD application definitions
 
